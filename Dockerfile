@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="f39f0a83-56c4-4c79-a461-812919404f72"
-ARG CADDYIndexPage="https://www.xiaobaixiazai.com/"
+ARG CADDYIndexPage="https://www.zzjikxy1314.tk/"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
 
