@@ -1,0 +1,6 @@
+{
+  "listen": ":9527",
+  "cert": "/root/hy/ca.crt",
+  "key": "/root/hy/ca.key",
+  "obfs": "password"
+}
